@@ -1,0 +1,37 @@
+Nome da caixa,tipo da caixa,Data de entrada na assistencia tecnica,data de saida,tipo de manutenção,custo,vendedor
+caixa 31,ureterorreno rigido,01/07/24,02/07/24,preventivo,0,flavia
+caixa 31,ureterorreno rigido,15/07/24,16/07/24,preventivo,0,flavia
+caixa 31,ureterorreno rigido,01/08/24,03/08/24,corretivo,3000,flavia
+caixa 31,ureterorreno rigido,01/09/24,03/09/24,corretivo,4500,flavia
+caixa 84,flexone,01/07/24,01/07/24,corretivo,150,flavia
+caixa 84,flexone,15/07/24,16/07/24,preventivo,0,flavia
+caixa 84,flexone,01/08/24,02/08/24,corretivo,2000,flavia
+caixa 84,flexone,20/09/24,22/09/24,corretivo,5000,flavia
+caixa 55,uretero flexivel,04/07/24,04/07/24,preventivo,0,flavia
+caixa 55,uretero flexivel,15/07/24,16/07/24,preventivo,0,flavia
+caixa 55,uretero flexivel,01/08/24,04/08/24,corretivo,1000,flavia
+caixa 55,uretero flexivel,10/09/24,12/09/24,corretivo,2500,flavia
+caixa 96,ureterorreno rigido,05/07/24,08/07/24,corretivo,200,flavia
+caixa 96,ureterorreno rigido,20/07/24,21/07/24,preventivo,0,flavia
+caixa 96,ureterorreno rigido,01/08/24,02/08/24,corretivo,4000,flavia
+caixa 96,ureterorreno rigido,10/09/24,15/09/24,corretivo,6000,flavia
+caixa 32,uretero rigido,10/07/24,12/07/24,corretivo,3000,flavia
+caixa 32,uretero rigido,01/08/24,02/08/24,preventivo,0,flavia
+caixa 32,uretero rigido,15/08/24,16/08/24,corretivo,5000,flavia
+caixa 32,uretero rigido,01/10/24,05/10/24,corretivo,7000,flavia
+caixa 33,flexible stent,01/07/24,01/07/24,preventivo,0,flavia
+caixa 33,flexible stent,15/07/24,15/07/24,preventivo,0,flavia
+caixa 33,flexible stent,30/07/24,31/07/24,corretivo,100,flavia
+caixa 33,flexible stent,15/08/24,16/08/24,preventivo,0,flavia
+caixa 34,uretero flexivel,02/07/24,02/07/24,preventivo,0,flavia
+caixa 34,uretero flexivel,16/07/24,17/07/24,preventivo,0,flavia
+caixa 34,uretero flexivel,01/08/24,01/08/24,corretivo,250,flavia
+caixa 34,uretero flexivel,15/08/24,16/08/24,preventivo,0,flavia
+caixa 35,stent duplo,03/07/24,04/07/24,preventivo,0,flavia
+caixa 35,stent duplo,18/07/24,18/07/24,corretivo,150,flavia
+caixa 35,stent duplo,02/08/24,03/08/24,preventivo,0,flavia
+caixa 35,stent duplo,20/08/24,21/08/24,corretivo,200,flavia
+caixa 36,cateter,05/07/24,06/07/24,preventivo,0,flavia
+caixa 36,cateter,20/07/24,20/07/24,corretivo,100,flavia
+caixa 36,cateter,04/08/24,05/08/24,preventivo,0,flavia
+caixa 36,cateter,19/08/24,20/08/24,corretivo,175,flavia
