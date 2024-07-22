@@ -2,12 +2,10 @@
 
 ## Descrição
 
-    Este projeto visa implementar um sistema de controle e análise de dados para a empresa FJ Hospitalar, focando na otimização do processo de faturamento de cirurgias e na capacitação da equipe em técnicas de análise de dados.
+    Este projeto visa implementar um sistema de controle e análise de dados para assistência técnica.
 
-## Objetivos
-    - Reduzir o tempo médio entre a realização da cirurgia e a geração da nota fiscal em 20%.
-    - Diminuir em 20% o número de cirurgias não faturadas.
-    - Capacitar a equipe de faturamento em técnicas básicas de análise de dados.
+## Observação
+    Devido a confidenciliadade dos dados, o banco de dados neste projeto é fictício e serve para propósitos educacionais.
 
 ## Estrutura do projeto
     - Documentação: Descrição do projeto, incluindo objetivos e metodologia
