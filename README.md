@@ -19,7 +19,12 @@
     - Matplotlib e Seaborn: Bibliotecas para visualização de dados.
 
 ## Instalação
-    1. Clone este repositorio:
 
-        git clone https://github.com/seuusuario/projeto-extensao.git
+### 1. Clone este repositorio:
+    git clone https://github.com/jorgenettodev/projeto-extensao-pandas.git
 
+### 2. Navegue até o diretório do projeto:
+    cd projeto-extensao-pandas
+
+### 3. Instale as dependências necessárias:
+    pip install pandas matplotlib seaborn
