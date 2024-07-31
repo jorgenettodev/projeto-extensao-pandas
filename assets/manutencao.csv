@@ -1,37 +1,37 @@
-Nome da caixa,tipo da caixa,Data de entrada na assistencia tecnica,data de saida,tipo de manutenção,custo,vendedor
-caixa 31,ureterorreno rigido,01/01/24,02/01/24,preventivo,0,fulano
-caixa 31,ureterorreno rigido,15/01/24,16/01/24,preventivo,0,ciclano
-caixa 31,ureterorreno rigido,01/02/24,03/02/24,corretivo,3000,fulano
-caixa 31,ureterorreno rigido,01/03/24,03/03/24,corretivo,4500,ciclano
-caixa 84,flexone,01/01/24,01/01/24,corretivo,150,fulano
-caixa 84,flexone,15/01/24,16/01/24,preventivo,0,ciclano
-caixa 84,flexone,01/02/24,02/02/24,corretivo,2000,fulano
-caixa 84,flexone,20/03/24,22/03/24,corretivo,5000,ciclano
-caixa 55,uretero flexivel,04/01/24,04/01/24,preventivo,0,fulano
-caixa 55,uretero flexivel,15/01/24,16/01/24,preventivo,0,ciclano
-caixa 55,uretero flexivel,01/02/24,04/02/24,corretivo,1000,fulano
-caixa 55,uretero flexivel,10/03/24,12/03/24,corretivo,2500,ciclano
-caixa 96,ureterorreno rigido,05/01/24,08/01/24,corretivo,200,fulano
-caixa 96,ureterorreno rigido,20/01/24,21/01/24,preventivo,0,ciclano
-caixa 96,ureterorreno rigido,01/02/24,02/02/24,corretivo,4000,fulano
-caixa 96,ureterorreno rigido,10/03/24,15/03/24,corretivo,6000,ciclano
-caixa 32,uretero rigido,10/01/24,12/01/24,corretivo,3000,fulano
-caixa 32,uretero rigido,01/02/24,02/02/24,preventivo,0,ciclano
-caixa 32,uretero rigido,15/02/24,16/02/24,corretivo,5000,fulano
-caixa 32,uretero rigido,01/03/24,05/03/24,corretivo,7000,ciclano
-caixa 33,flexible stent,01/01/24,01/01/24,preventivo,0,fulano
-caixa 33,flexible stent,15/01/24,15/01/24,preventivo,0,ciclano
-caixa 33,flexible stent,30/01/24,31/01/24,corretivo,100,fulano
-caixa 33,flexible stent,15/02/24,16/02/24,preventivo,0,ciclano
-caixa 34,uretero flexivel,02/01/24,02/01/24,preventivo,0,fulano
-caixa 34,uretero flexivel,16/01/24,17/01/24,preventivo,0,ciclano
-caixa 34,uretero flexivel,01/02/24,01/02/24,corretivo,250,fulano
-caixa 34,uretero flexivel,15/02/24,16/02/24,preventivo,0,ciclano
-caixa 35,stent duplo,03/01/24,04/01/24,preventivo,0,fulano
-caixa 35,stent duplo,18/01/24,18/01/24,corretivo,150,ciclano
-caixa 35,stent duplo,02/02/24,03/02/24,preventivo,0,fulano
-caixa 35,stent duplo,20/02/24,21/02/24,corretivo,200,ciclano
-caixa 36,cateter,05/01/24,06/01/24,preventivo,0,fulano
-caixa 36,cateter,20/01/24,20/01/24,corretivo,100,ciclano
-caixa 36,cateter,04/02/24,05/02/24,preventivo,0,fulano
-caixa 36,cateter,19/02/24,20/02/24,corretivo,175,ciclano
+Nome da caixa,Data de entrada na assistencia tecnica,data de saida,tipo de manutenção,custo,vendedor
+caixa 31,01/01/24,02/01/24,preventivo,0,fulano
+caixa 31,15/01/24,16/01/24,preventivo,0,ciclano
+caixa 31,01/02/24,03/02/24,corretivo,3000,fulano
+caixa 31,01/03/24,03/03/24,corretivo,4500,ciclano
+caixa 84,01/01/24,01/01/24,corretivo,150,fulano
+caixa 84,15/01/24,16/01/24,preventivo,0,ciclano
+caixa 84,01/02/24,02/02/24,corretivo,2000,fulano
+caixa 84,20/03/24,22/03/24,corretivo,5000,ciclano
+caixa 55,04/01/24,04/01/24,preventivo,0,fulano
+caixa 55,15/01/24,16/01/24,preventivo,0,ciclano
+caixa 55,01/02/24,04/02/24,corretivo,1000,fulano
+caixa 55,10/03/24,12/03/24,corretivo,2500,ciclano
+caixa 96,05/01/24,08/01/24,corretivo,200,fulano
+caixa 96,20/01/24,21/01/24,preventivo,0,ciclano
+caixa 96,01/02/24,02/02/24,corretivo,4000,fulano
+caixa 96,10/03/24,15/03/24,corretivo,6000,ciclano
+caixa 32,10/01/24,12/01/24,corretivo,3000,fulano
+caixa 32,01/02/24,02/02/24,preventivo,0,ciclano
+caixa 32,15/02/24,16/02/24,corretivo,5000,fulano
+caixa 32,01/03/24,05/03/24,corretivo,7000,ciclano
+caixa 33,01/01/24,01/01/24,preventivo,0,fulano
+caixa 33,15/01/24,15/01/24,preventivo,0,ciclano
+caixa 33,30/01/24,31/01/24,corretivo,100,fulano
+caixa 33,15/02/24,16/02/24,preventivo,0,ciclano
+caixa 34,02/01/24,02/01/24,preventivo,0,fulano
+caixa 34,16/01/24,17/01/24,preventivo,0,ciclano
+caixa 34,01/02/24,01/02/24,corretivo,250,fulano
+caixa 34,15/02/24,16/02/24,preventivo,0,ciclano
+caixa 35,03/01/24,04/01/24,preventivo,0,fulano
+caixa 35,18/01/24,18/01/24,corretivo,150,ciclano
+caixa 35,02/02/24,03/02/24,preventivo,0,fulano
+caixa 35,20/02/24,21/02/24,corretivo,200,ciclano
+caixa 36,05/01/24,06/01/24,preventivo,0,fulano
+caixa 36,20/01/24,20/01/24,corretivo,100,ciclano
+caixa 36,04/02/24,05/02/24,preventivo,0,fulano
+caixa 36,19/02/24,20/02/24,corretivo,175,ciclano
